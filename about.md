@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Matt
 description: Pursue your dream
 permalink: /about/
 order: 3
