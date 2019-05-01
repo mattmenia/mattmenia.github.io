@@ -9,7 +9,7 @@ order: 1
 # React Simple Chatbot
  
 
-<h1 style="font-size:60px; style="background-color:DodgerBlue;">Welcome to Marshall Museum!</h1> 
+<h1 style="font-size:60px;"background-color:DodgerBlue;">Welcome to Marshall Museum!</h1> 
 <p>
   Marshall Museum is located on the VMI campus and requires you purchase a ticket in store, after this and a video you are free to explore the museum and the exhibits located inside
 </p> 
