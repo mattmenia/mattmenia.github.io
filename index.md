@@ -4,10 +4,7 @@ title: Marshal Musem
 description: Pursue your dream
 permalink: /
 order: 1
----
-
-# React Simple Chatbot
- 
+--- 
 
 <h1>Welcome to Marshall Museum!</h1> 
 <p>
