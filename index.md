@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Marshal Musem
-description: Pursue your dream
+title: Marshall Musem
+description: Explore the life of GEN George C Marshall a VMI alumnus Class of 1901
 permalink: /
 order: 1
 --- 
