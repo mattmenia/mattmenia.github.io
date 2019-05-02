@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Marshall Musem
+title: Marshall Musem website
 description: Explore the life of GEN George C Marshall a VMI alumnus Class of 1901
 permalink: /
 order: 1
